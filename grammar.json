@@ -1,1 +1,30 @@
-
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "İsim Cümlesi",
+    "arabicExample": "هَذَا كِتَابٌ",
+    "explanation": "Bu bir isim cümlesidir. Arapçada çoğu zaman 'dır' eki açıkça yazılmaz."
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Mazi Fiil",
+    "arabicExample": "ذَهَبَ أَحْمَدُ",
+    "explanation": "ذَهَبَ geçmiş zaman fiilidir. Anlamı: gitti."
+  },
+  {
+    "id": 3,
+    "level": "A2",
+    "title": "Muzari Fiil",
+    "arabicExample": "يَكْتُبُ الطَّالِبُ",
+    "explanation": "يَكْتُبُ şimdiki veya geniş zaman anlamı verir. Anlamı: yazar / yazıyor."
+  },
+  {
+    "id": 4,
+    "level": "B1",
+    "title": "Mübteda ve Haber",
+    "arabicExample": "الْبَيْتُ جَمِيلٌ",
+    "explanation": "الْبَيْتُ mübteda, جَمِيلٌ haberdir. Anlamı: Ev güzeldir."
+  }
+]
